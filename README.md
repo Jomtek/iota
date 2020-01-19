@@ -1,6 +1,6 @@
 # iota
 
-Functional programming language dynamic typed inspired from S-Expression syntax
+Functional programming language dynamically typed inspired from S-Expression syntax.
 
 ## Why this project ?
 I started this project to understand better about how works parser so it's not a
