@@ -12,13 +12,12 @@ serious project but for my own learning.
 - [ ] Interpreter
 
 **Features**
+- [ ] Lists
 - [ ] Functions
 - [ ] Statements
-- [ ] Lists
 
 **Functional features**
+- [ ] map,filter,reduce functions
 - [ ] Pattern matching
 - [ ] Recursion
 - [ ] Lambda functions
-- [ ] Monoids
-- [ ] Homoiconicity property
