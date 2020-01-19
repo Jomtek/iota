@@ -2,11 +2,11 @@
 
 <img src="./assets/icon.png" style="max-width:100%" align="right" alt="icon iota">
 
-Functional programming language dynamically typed inspired from S-Expression syntax.
+Functionnal dynamically-typed programming language, inspired by the S-Expression syntax.
 
 ## Why this project ?
-I started this project to understand better about how works parser so it's not a
-serious project but for my own learning.
+I started this project to have a better understanding about parsers. Perhaps this is not a
+serious project, but a personal training.
 
 ## Roadmap
 
@@ -19,7 +19,7 @@ serious project but for my own learning.
 - [ ] Statements
 
 **Functional features**
-- [ ] map,filter,reduce functions
+- [ ] Functions: map, filter, reduce
 - [ ] Pattern matching
 - [ ] Recursion
 - [ ] Lambda functions
