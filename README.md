@@ -1,6 +1,6 @@
 # iota
 
-<img src="https://github.com/iota/tree/master/assets/icon.png" style="max-width:100%" align="right" alt="icon iota">
+<img src="./assets/icon.png" style="max-width:100%" align="right" alt="icon iota">
 
 Functional programming language dynamically typed inspired from S-Expression syntax.
 
